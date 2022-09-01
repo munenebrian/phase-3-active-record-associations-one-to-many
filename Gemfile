@@ -35,3 +35,5 @@ group :test do
   gem "rspec"
 end
 
+
+gem "ruby-lsp", "~> 0.3.0", :group => :development
